@@ -1,6 +1,7 @@
 # This is a demo code for PMC msDTI
 /data：please download the test data from Data.txt
 
+<pre>
 |-- PMC_msDWI
     |-- Code
     |   |-- src
@@ -11,6 +12,7 @@
     |-- Data
     |   |-- ssDWI
     |   |-- msDWI
+    
 
 /utils: src
 
