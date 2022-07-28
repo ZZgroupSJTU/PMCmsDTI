@@ -1,6 +1,17 @@
 # This is a demo code for PMC msDTI
 /data：please download the test data from Data.txt
 
+|-- PMC_msDWI
+    |-- Code
+    |   |-- src
+    |   |-- tools
+    |   |-- utils
+    |   |-- multi_shot_recon_demo.m
+    |   |-- single_shot_recon_demo.m
+    |-- Data
+    |   |-- ssDWI
+    |   |-- msDWI
+
 /utils: src
 
 single_shot_recon_demo:
