@@ -1,5 +1,5 @@
 # This is a demo code for PMC msDTI
-/data：please download the test data from ReadMe.txt
+/data：please download the test data from Data.txt
 
 /utils: src
 
